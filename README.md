@@ -1,3 +1,12 @@
+# Avaliação para Engenheiro de Software iOS Peixe Urbano / Groupon LATAM
+
+## Para esse teste ser avaliado, você precisará:
+* criar um repositório no Github para este projeto;
+* adicionar como membros do projeto os usuarios: [dbonates](https://github.com/dbonates), [insidegui](https://github.com/insidegui), [rafaelbletro](https://github.com/rafaelbletro), [ped1256](https://github.com/ped1256) e [yanvalverde](https://github.com/yanvalverde);
+* notificar a empresa avisando que o teste está disponível para verificação.
+
+### Objetivo
+
 Seu desafio é recriar a home do aplicativo do Peixe Urbano para iOS, utilizando os dados dos arquivos JSON listados abaixo.
 
 A home do app que você irá criar deve consistir em uma tab bar com três abas: Na Cidade, Viagens e Produtos. Cada aba deve listar as ofertas dos arquivos JSON correspondentes, que devem ser baixados diretamente das URLs (não armazenados dentro do app).
